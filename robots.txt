@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://TWOJ-ADRES.vercel.app/sitemap.xml
