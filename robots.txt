@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TWOJ-ADRES.vercel.app/sitemap.xml
+Sitemap: https://jasik-web-company.vercel.app/sitemap.xml
